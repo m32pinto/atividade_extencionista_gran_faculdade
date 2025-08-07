@@ -36,6 +36,22 @@ finalizar o pedido e enviar mensagens separadas para os clientes.
   - Banco de dados para gravar clientes e marcas de produtos.
   - Atendimento humanizado e por etapas.
 
+- Instruções:
+
+    1 - Utilizar o código abaixo para isntalar as depêndecias.
+
+       npm install
+
+    2 - Carregar o modelo que irá ser utilizado no LMSTUDIO.
+
+    3 - Ativar o  servidor do LMSTUDIO.
+
+    4 - Utilizar o código abaixo para iniciar.
+
+      node src/index.js
+
+    5 - Escanear QRCODE.
+
 ## 💻 Tecnologias utilizadas no projeto
 
 - [meta-llama/Llama-3.1-8B-Instruct](https://huggingface.co/meta-llama/Llama-3.1-8B-Instruct) :globe_with_meridians:

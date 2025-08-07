@@ -3,7 +3,7 @@ const { Client, LocalAuth } = require('whatsapp-web.js'); // Para interagir com 
 const qrcode = require('qrcode-terminal'); // Para gerar o QR Code no terminal
 // Importa a função de API para interagir com o LLM (agora apenas uma função)
 // O 'conversationStates' NÃO é mais importado daqui, pois será gerenciado NESTE arquivo.
-const { updateOrderInfoWithLLM } = require('./src/api'); // Assumindo que api.js está na pasta src/
+const { updateOrderInfoWithLLM } = require('./api');; // Assumindo que api.js está na pasta src/
 
 
 
