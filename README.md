@@ -69,11 +69,15 @@ finalizar o pedido e enviar mensagens separadas para os clientes.
     - Inicio do projeto. 
     - Criação e fase de testes dos primeiros arquivos.
     - Apresentação do projeto piloto.
+ 
+    - index.js (Novo)
+    - api.js (Novo)
 
-    - Index.js (Novo)
-    - Api.js (Novo)
-    - Read-me.md (Novo)
-    - Requirements.txt (Novo)
+    - .gitignore (Novo)
+    - README.md (Novo)
+    - package-lock.json (Novo)
+    - package.json (Novo)
+
 
 
 
