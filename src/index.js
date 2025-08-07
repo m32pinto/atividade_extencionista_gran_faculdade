@@ -1,5 +1,3 @@
-index.js
-
 // Importa as bibliotecas necessárias
 const { Client, LocalAuth } = require('whatsapp-web.js'); // Para interagir com o WhatsApp
 const qrcode = require('qrcode-terminal'); // Para gerar o QR Code no terminal
@@ -325,3 +323,4 @@ client.initialize();
 // Em um bot real, você precisaria de lógica para limpar chats inativos após um tempo
 // ou ao desconectar, para não acumular muitos dados na memória.
 // Ex: setInterval(() => { /* lógica para verificar e remover chats inativos */ }, tempoEmMilissegundos);
+
